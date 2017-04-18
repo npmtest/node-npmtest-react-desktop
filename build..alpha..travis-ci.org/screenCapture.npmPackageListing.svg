@@ -1,0 +1,138 @@
+<svg height="2158" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2158" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 11:32:59 +0000   622939 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 11:32:59 +0000     2532 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 11:32:59 +0000     1078 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 11:32:59 +0000     2186 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 11:32:59 +0000     3959 bytes  index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 11:32:59 +0000     5860 bytes  macOs.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 11:32:59 +0000     5860 bytes  osx.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 11:32:59 +0000     3992 bytes  package.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 11:32:59 +0000     2869 bytes  src/ValueRef.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 11:32:59 +0000     5610 bytes  src/animation/bezierEasing.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 11:32:59 +0000     5839 bytes  src/box/macOs/box.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 11:32:59 +0000      656 bytes  src/box/macOs/styles/10.11.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 11:32:59 +0000     6178 bytes  src/button/macOs/button.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 11:32:59 +0000     1556 bytes  src/button/macOs/styles/10.11.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 11:32:59 +0000     5153 bytes  src/button/windows/button.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 11:32:59 +0000     1127 bytes  src/button/windows/styles/windows10.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 11:32:59 +0000     6700 bytes  src/checkbox/macOs/checkbox.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 11:32:59 +0000     4293 bytes  src/checkbox/macOs/checkmark.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 11:32:59 +0000     1823 bytes  src/checkbox/macOs/styles/10.11.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 11:32:59 +0000     6692 bytes  src/checkbox/windows/checkbox.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 11:32:59 +0000     1785 bytes  src/checkbox/windows/styles/windows10.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 11:32:59 +0000     5558 bytes  src/color.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 11:32:59 +0000     6796 bytes  src/dialog/macOs/dialog.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 11:32:59 +0000      825 bytes  src/dialog/macOs/style/10.11.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 11:32:59 +0000      303 bytes  src/label/macOs/label.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 11:32:59 +0000      305 bytes  src/label/windows/label.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 11:32:59 +0000     4689 bytes  src/link/macOs/link.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 11:32:59 +0000     3822 bytes  src/listView/macOs/footer/footer.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 11:32:59 +0000      285 bytes  src/listView/macOs/footer/style/10.11.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 11:32:59 +0000     3822 bytes  src/listView/macOs/header/header.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 11:32:59 +0000      294 bytes  src/listView/macOs/header/style/10.11.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 11:32:59 +0000     5436 bytes  src/listView/macOs/listView.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 11:32:59 +0000     5598 bytes  src/listView/macOs/row/row.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 11:32:59 +0000      238 bytes  src/listView/macOs/row/style/10.11.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 11:32:59 +0000     5471 bytes  src/listView/macOs/section/header/header.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 11:32:59 +0000      190 bytes  src/listView/macOs/section/header/style/10.11.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 11:32:59 +0000     3385 bytes  src/listView/macOs/section/section.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 11:32:59 +0000      177 bytes  src/listView/macOs/section/style/10.11.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 11:32:59 +0000     4091 bytes  src/listView/macOs/separator/separator.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 11:32:59 +0000      198 bytes  src/listView/macOs/separator/style/10.11.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 11:32:59 +0000      433 bytes  src/listView/macOs/style/10.11.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-18 11:32:59 +0000     4464 bytes  src/masterDetailsView/windows/details/details.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-18 11:32:59 +0000     5261 bytes  src/masterDetailsView/windows/item/item.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-18 11:32:59 +0000     7049 bytes  src/masterDetailsView/windows/master/master.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-18 11:32:59 +0000     7795 bytes  src/masterDetailsView/windows/masterDetailsView.\</tspan>
+<tspan x="10" y="746">js</tspan>
+<tspan x="10" y="762"> 45.  2017-04-18 11:32:59 +0000     3805 bytes  src/masterDetailsView/windows/pane.js</tspan>
+<tspan x="10" y="778"> 46.  2017-04-18 11:32:59 +0000      899 bytes  src/monitor.js</tspan>
+<tspan x="10" y="794"> 47.  2017-04-18 11:32:59 +0000     4211 bytes  src/navPane/windows/item/content/content.js</tspan>
+<tspan x="10" y="810"> 48.  2017-04-18 11:32:59 +0000     5926 bytes  src/navPane/windows/item/item.js</tspan>
+<tspan x="10" y="826"> 49.  2017-04-18 11:32:59 +0000     4748 bytes  src/navPane/windows/item/title/title.js</tspan>
+<tspan x="10" y="842"> 50.  2017-04-18 11:32:59 +0000     5170 bytes  src/navPane/windows/navPane.js</tspan>
+<tspan x="10" y="858"> 51.  2017-04-18 11:32:59 +0000     3996 bytes  src/navPane/windows/pane/button/button.js</tspan>
+<tspan x="10" y="874"> 52.  2017-04-18 11:32:59 +0000     5488 bytes  src/navPane/windows/pane/item/item.js</tspan>
+<tspan x="10" y="890"> 53.  2017-04-18 11:32:59 +0000     5397 bytes  src/navPane/windows/pane/pane.js</tspan>
+<tspan x="10" y="906"> 54.  2017-04-18 11:32:59 +0000     1577 bytes  src/navPane/windows/pane/style/windows10.js</tspan>
+<tspan x="10" y="922"> 55.  2017-04-18 11:32:59 +0000      920 bytes  src/navPane/windows/style/windows10.js</tspan>
+<tspan x="10" y="938"> 56.  2017-04-18 11:32:59 +0000      745 bytes  src/os.js</tspan>
+<tspan x="10" y="954"> 57.  2017-04-18 11:32:59 +0000     7703 bytes  src/pin/macOs/pin.js</tspan>
+<tspan x="10" y="970"> 58.  2017-04-18 11:32:59 +0000       13 bytes  src/pin/macOs/style/10.11.js</tspan>
+<tspan x="10" y="986"> 59.  2017-04-18 11:32:59 +0000     4626 bytes  src/placeholderStyle.js</tspan>
+<tspan x="10" y="1002"> 60.  2017-04-18 11:32:59 +0000     8300 bytes  src/progressCircle/macOs/progressCircle.js</tspan>
+<tspan x="10" y="1018"> 61.  2017-04-18 11:32:59 +0000     1367 bytes  src/progressCircle/macOs/progressCircleAnimation\</tspan>
+<tspan x="10" y="1034">.js</tspan>
+<tspan x="10" y="1050"> 62.  2017-04-18 11:32:59 +0000      294 bytes  src/progressCircle/macOs/styles/10.11.js</tspan>
+<tspan x="10" y="1066"> 63.  2017-04-18 11:32:59 +0000     6048 bytes  src/progressCircle/windows/progressCircle.js</tspan>
+<tspan x="10" y="1082"> 64.  2017-04-18 11:32:59 +0000     3058 bytes  src/progressCircle/windows/progressCircleAnimati\</tspan>
+<tspan x="10" y="1098">on.js</tspan>
+<tspan x="10" y="1114"> 65.  2017-04-18 11:32:59 +0000      320 bytes  src/progressCircle/windows/styles/windows10.js</tspan>
+<tspan x="10" y="1130"> 66.  2017-04-18 11:32:59 +0000     3876 bytes  src/radio/macOs/circle.js</tspan>
+<tspan x="10" y="1146"> 67.  2017-04-18 11:32:59 +0000     7135 bytes  src/radio/macOs/radio.js</tspan>
+<tspan x="10" y="1162"> 68.  2017-04-18 11:32:59 +0000     1804 bytes  src/radio/macOs/styles/10.11.js</tspan>
+<tspan x="10" y="1178"> 69.  2017-04-18 11:32:59 +0000     7468 bytes  src/radio/windows/radio.js</tspan>
+<tspan x="10" y="1194"> 70.  2017-04-18 11:32:59 +0000     1772 bytes  src/radio/windows/styles/windows.js</tspan>
+<tspan x="10" y="1210"> 71.  2017-04-18 11:32:59 +0000     1097 bytes  src/searchField/macOs/cancelAnimation.js</tspan>
+<tspan x="10" y="1226"> 72.  2017-04-18 11:32:59 +0000     2622 bytes  src/searchField/macOs/icons.js</tspan>
+<tspan x="10" y="1242"> 73.  2017-04-18 11:32:59 +0000     7200 bytes  src/searchField/macOs/searchField.js</tspan>
+<tspan x="10" y="1258"> 74.  2017-04-18 11:32:59 +0000      401 bytes  src/searchField/macOs/styles/10.11.js</tspan>
+<tspan x="10" y="1274"> 75.  2017-04-18 11:32:59 +0000     2927 bytes  src/segmentedControl/macOs/item/item.js</tspan>
+<tspan x="10" y="1290"> 76.  2017-04-18 11:32:59 +0000     6364 bytes  src/segmentedControl/macOs/segmentedControl.js</tspan>
+<tspan x="10" y="1306"> 77.  2017-04-18 11:32:59 +0000     2464 bytes  src/segmentedControl/macOs/style/10.11.js</tspan>
+<tspan x="10" y="1322"> 78.  2017-04-18 11:32:59 +0000     4558 bytes  src/segmentedControl/macOs/tabs/tab.js</tspan>
+<tspan x="10" y="1338"> 79.  2017-04-18 11:32:59 +0000     5047 bytes  src/segmentedControl/macOs/tabs/tabs.js</tspan>
+<tspan x="10" y="1354"> 80.  2017-04-18 11:32:59 +0000     2275 bytes  src/style/alignment.js</tspan>
+<tspan x="10" y="1370"> 81.  2017-04-18 11:32:59 +0000      932 bytes  src/style/background/macOs.js</tspan>
+<tspan x="10" y="1386"> 82.  2017-04-18 11:32:59 +0000     5626 bytes  src/style/background/windows.js</tspan>
+<tspan x="10" y="1402"> 83.  2017-04-18 11:32:59 +0000     4100 bytes  src/style/color/windows.js</tspan>
+<tspan x="10" y="1418"> 84.  2017-04-18 11:32:59 +0000     1196 bytes  src/style/dimension.js</tspan>
+<tspan x="10" y="1434"> 85.  2017-04-18 11:32:59 +0000     1311 bytes  src/style/fontSize.js</tspan>
+<tspan x="10" y="1450"> 86.  2017-04-18 11:32:59 +0000      993 bytes  src/style/hidden.js</tspan>
+<tspan x="10" y="1466"> 87.  2017-04-18 11:32:59 +0000     1482 bytes  src/style/margin.js</tspan>
+<tspan x="10" y="1482"> 88.  2017-04-18 11:32:59 +0000     2371 bytes  src/style/padding.js</tspan>
+<tspan x="10" y="1498"> 89.  2017-04-18 11:32:59 +0000     1292 bytes  src/style/textAlign.js</tspan>
+<tspan x="10" y="1514"> 90.  2017-04-18 11:32:59 +0000     3856 bytes  src/style/theme/windows.js</tspan>
+<tspan x="10" y="1530"> 91.  2017-04-18 11:32:59 +0000     1272 bytes  src/style/width.js</tspan>
+<tspan x="10" y="1546"> 92.  2017-04-18 11:32:59 +0000     7540 bytes  src/styleHelper.js</tspan>
+<tspan x="10" y="1562"> 93.  2017-04-18 11:32:59 +0000      326 bytes  src/text/macOs/styles/10.11.js</tspan>
+<tspan x="10" y="1578"> 94.  2017-04-18 11:32:59 +0000     5353 bytes  src/text/macOs/text.js</tspan>
+<tspan x="10" y="1594"> 95.  2017-04-18 11:32:59 +0000      375 bytes  src/text/windows/styles/windows10.js</tspan>
+<tspan x="10" y="1610"> 96.  2017-04-18 11:32:59 +0000     5341 bytes  src/text/windows/text.js</tspan>
+<tspan x="10" y="1626"> 97.  2017-04-18 11:32:59 +0000     2306 bytes  src/textInput/macOs/centerPlaceholderAnimation.j\</tspan>
+<tspan x="10" y="1642">s</tspan>
+<tspan x="10" y="1658"> 98.  2017-04-18 11:32:59 +0000     1388 bytes  src/textInput/macOs/focusRingAnimation.js</tspan>
+<tspan x="10" y="1674"> 99.  2017-04-18 11:32:59 +0000     2535 bytes  src/textInput/macOs/styles/10.11.js</tspan>
+<tspan x="10" y="1690">100.  2017-04-18 11:32:59 +0000    13667 bytes  src/textInput/macOs/textInput.js</tspan>
+<tspan x="10" y="1706">101.  2017-04-18 11:32:59 +0000     1417 bytes  src/textInput/windows/styles/windows10.js</tspan>
+<tspan x="10" y="1722">102.  2017-04-18 11:32:59 +0000     6686 bytes  src/textInput/windows/textInput.js</tspan>
+<tspan x="10" y="1738">103.  2017-04-18 11:32:59 +0000     5898 bytes  src/titleBar/macOs/controls/close.js</tspan>
+<tspan x="10" y="1754">104.  2017-04-18 11:32:59 +0000     4233 bytes  src/titleBar/macOs/controls/controls.js</tspan>
+<tspan x="10" y="1770">105.  2017-04-18 11:32:59 +0000     5105 bytes  src/titleBar/macOs/controls/minimize.js</tspan>
+<tspan x="10" y="1786">106.  2017-04-18 11:32:59 +0000     9047 bytes  src/titleBar/macOs/controls/resize.js</tspan>
+<tspan x="10" y="1802">107.  2017-04-18 11:32:59 +0000     2246 bytes  src/titleBar/macOs/controls/styles/10.11.js</tspan>
+<tspan x="10" y="1818">108.  2017-04-18 11:32:59 +0000     1393 bytes  src/titleBar/macOs/styles/10.11.js</tspan>
+<tspan x="10" y="1834">109.  2017-04-18 11:32:59 +0000     7395 bytes  src/titleBar/macOs/titleBar.js</tspan>
+<tspan x="10" y="1850">110.  2017-04-18 11:32:59 +0000     5074 bytes  src/titleBar/windows/controls/close.js</tspan>
+<tspan x="10" y="1866">111.  2017-04-18 11:32:59 +0000     3412 bytes  src/titleBar/windows/controls/controls.js</tspan>
+<tspan x="10" y="1882">112.  2017-04-18 11:32:59 +0000     5869 bytes  src/titleBar/windows/controls/maximize.js</tspan>
+<tspan x="10" y="1898">113.  2017-04-18 11:32:59 +0000     5036 bytes  src/titleBar/windows/controls/minimize.js</tspan>
+<tspan x="10" y="1914">114.  2017-04-18 11:32:59 +0000      724 bytes  src/titleBar/windows/styles/windows10.js</tspan>
+<tspan x="10" y="1930">115.  2017-04-18 11:32:59 +0000     6356 bytes  src/titleBar/windows/titleBar.js</tspan>
+<tspan x="10" y="1946">116.  2017-04-18 11:32:59 +0000     4380 bytes  src/toolbar/macOs/nav/item/item.js</tspan>
+<tspan x="10" y="1962">117.  2017-04-18 11:32:59 +0000     4549 bytes  src/toolbar/macOs/nav/nav.js</tspan>
+<tspan x="10" y="1978">118.  2017-04-18 11:32:59 +0000     3923 bytes  src/toolbar/macOs/toolbar.js</tspan>
+<tspan x="10" y="1994">119.  2017-04-18 11:32:59 +0000      947 bytes  src/utils/mapStyles.js</tspan>
+<tspan x="10" y="2010">120.  2017-04-18 11:32:59 +0000     5898 bytes  src/view/macOs/view.js</tspan>
+<tspan x="10" y="2026">121.  2017-04-18 11:32:59 +0000     6167 bytes  src/view/windows/view.js</tspan>
+<tspan x="10" y="2042">122.  2017-04-18 11:32:59 +0000      922 bytes  src/window/macOs/styles/10.11.js</tspan>
+<tspan x="10" y="2058">123.  2017-04-18 11:32:59 +0000     6355 bytes  src/window/macOs/window.js</tspan>
+<tspan x="10" y="2074">124.  2017-04-18 11:32:59 +0000      603 bytes  src/window/windows/styles/windows10.js</tspan>
+<tspan x="10" y="2090">125.  2017-04-18 11:32:59 +0000     6774 bytes  src/window/windows/window.js</tspan>
+<tspan x="10" y="2106">126.  2017-04-18 11:32:59 +0000     3793 bytes  src/windowFocus.js</tspan>
+<tspan x="10" y="2122">127.  2017-04-18 11:32:59 +0000     3645 bytes  windows.js</tspan>
+<tspan x="10" y="2138">128.  2017-04-18 11:32:59 +0000   157976 bytes  yarn.lock</tspan>
+</text>
+</svg>
