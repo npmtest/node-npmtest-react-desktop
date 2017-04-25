@@ -41,7 +41,7 @@
 <tspan x="10" y="618">│   │ │ │   │ └── is-posix-bracket@0.1.1 </tspan>
 <tspan x="10" y="634">│   │ │ │   ├── extglob@0.3.2 </tspan>
 <tspan x="10" y="650">│   │ │ │   ├── filename-regex@2.0.0 </tspan>
-<tspan x="10" y="666">│   │ │ │   ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="666">│   │ │ │   ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="682">│   │ │ │   │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="698">│   │ │ │   ├─┬ normalize-path@2.1.1 </tspan>
 <tspan x="10" y="714">│   │ │ │   │ └── remove-trailing-separator@1.0.1 </tspan>
@@ -87,7 +87,7 @@
 <tspan x="10" y="1354">│   │ ├── path-is-absolute@1.0.1 </tspan>
 <tspan x="10" y="1370">│   │ ├── slash@1.0.0 </tspan>
 <tspan x="10" y="1386">│   │ ├── source-map@0.5.6 </tspan>
-<tspan x="10" y="1402">│   │ └─┬ v8flags@2.0.12 </tspan>
+<tspan x="10" y="1402">│   │ └─┬ v8flags@2.1.1 </tspan>
 <tspan x="10" y="1418">│   │   └── user-home@1.1.1 </tspan>
 <tspan x="10" y="1434">│   ├─┬ babel-core@6.24.1 </tspan>
 <tspan x="10" y="1450">│   │ ├─┬ babel-code-frame@6.22.0 </tspan>
@@ -116,9 +116,9 @@
 <tspan x="10" y="1818">│   │ │   └── loose-envify@1.3.1 </tspan>
 <tspan x="10" y="1834">│   │ ├─┬ babel-types@6.24.1 </tspan>
 <tspan x="10" y="1850">│   │ │ └── to-fast-properties@1.0.2 </tspan>
-<tspan x="10" y="1866">│   │ ├── babylon@6.16.1 </tspan>
-<tspan x="10" y="1882">│   │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="1898">│   │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="1866">│   │ ├── babylon@6.17.0 </tspan>
+<tspan x="10" y="1882">│   │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="1898">│   │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="1914">│   │ ├── json5@0.5.1 </tspan>
 <tspan x="10" y="1930">│   │ ├─┬ minimatch@3.0.3 </tspan>
 <tspan x="10" y="1946">│   │ │ └─┬ brace-expansion@1.1.7 </tspan>
@@ -203,7 +203,7 @@
 <tspan x="10" y="3210">│   │     │ └── babel-plugin-syntax-exponentiation-operator@6.13.0 </tspan>
 <tspan x="10" y="3226">│   │     └─┬ babel-plugin-transform-object-rest-spread@6.23.0 </tspan>
 <tspan x="10" y="3242">│   │       └── babel-plugin-syntax-object-rest-spread@6.13.0 </tspan>
-<tspan x="10" y="3258">│   ├── exenv@1.2.1 </tspan>
+<tspan x="10" y="3258">│   ├── exenv@1.2.2 </tspan>
 <tspan x="10" y="3274">│   ├─┬ inline-style-prefixer@2.0.5 </tspan>
 <tspan x="10" y="3290">│   │ ├── bowser@1.6.1 </tspan>
 <tspan x="10" y="3306">│   │ └── hyphenate-style-name@1.0.2 </tspan>
