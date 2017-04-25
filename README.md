@@ -1,6 +1,6 @@
 # npmtest-react-desktop
 
-#### test coverage for  [react-desktop (v0.3.0)](https://github.com/gabrielbull/react-desktop#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-desktop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-desktop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-desktop.svg)](https://travis-ci.org/npmtest/node-npmtest-react-desktop)
+#### basic test coverage for  [react-desktop (v0.3.0)](https://github.com/gabrielbull/react-desktop#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-desktop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-desktop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-desktop.svg)](https://travis-ci.org/npmtest/node-npmtest-react-desktop)
 
 #### React UI Components for macOS Sierra and Windows 10
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-desktop/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-react-desktop/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-desktop/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-desktop/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-desktop/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-desktop/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-react-desktop/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-react-desktop/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-desktop/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-desktop/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-react-desktop/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-desktop/build/coverage.html/index.html)
 
@@ -118,7 +118,8 @@
         "prebuild": "rsync -av -delete . build --exclude build --exclude .git --exclude .idea && npm run eslint && npm run test",
         "test": "mocha test"
     },
-    "version": "0.3.0"
+    "version": "0.3.0",
+    "bin": {}
 }
 ```
 
